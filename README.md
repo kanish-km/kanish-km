@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanish-km
 - 👀 I’m interested in learning java
-- 🌱 I’m currently learning ...java and c
+
 
 - 📫 How to reach me ...insta:kanish.km
 
